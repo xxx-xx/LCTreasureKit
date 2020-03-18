@@ -1,0 +1,6 @@
+framework module LCTreasureKit {
+  umbrella header "LCTreasureKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

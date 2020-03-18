@@ -1,0 +1,22 @@
+{
+  "name": "LCTreasureKit",
+  "version": "0.1.0",
+  "summary": "A short description of LCTreasureKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/adam_xlc@qq.com/LCTreasureKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "adam_xlc@qq.com": "hzxx_xlc@163.com"
+  },
+  "source": {
+    "git": "https://github.com/adam_xlc@qq.com/LCTreasureKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCTreasureKit/Classes/**/*"
+}

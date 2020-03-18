@@ -22,7 +22,7 @@ pod 'LCTreasureKit'
 
 ## Author
 
-adam_xlc@qq.com, hzxx_xlc@163.com
+Xu Lichao, hzxx_xlc@163.com
 
 ## License
 

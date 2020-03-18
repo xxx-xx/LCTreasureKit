@@ -1,0 +1,16 @@
+PODS:
+  - LCTreasureKit (0.1.0)
+
+DEPENDENCIES:
+  - LCTreasureKit (from `../`)
+
+EXTERNAL SOURCES:
+  LCTreasureKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCTreasureKit: 0667c7ef717d531f785d8409d2b64463e986b1f3
+
+PODFILE CHECKSUM: 3cd5084812f1ab313f6b9101e24f6e072fa39a34
+
+COCOAPODS: 1.8.3
