@@ -25,7 +25,6 @@
 		768619D2556A1F8347EA184102B84C31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		8D1FED6D5B79BF1160074ED38A9B51B2 /* LCTreasureKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BEE22ACFEEC39D85074621C1F6631F3F /* LCTreasureKit-dummy.m */; };
 		A198255DAA4CC72E55D6E4ED62BFD4D4 /* LCTreasureKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E0338FB30284982A93B28F0B7B54BC51 /* LCTreasureKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0510B68CE7FABB965F5DEDD0FE14044 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EED4B41B5EEF1F4451F9F0A0D992EDC /* ReplaceMe.m */; };
 		C804D060EC12D779DE9AA689D96E8FFB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		CC5D0E76550661852907B0D800A106BC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		FB3513757B44C9C64E8FF0A5218E0CA1 /* Pods-LCTreasureKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 29354D2B4D3F66A77FDF20E1A2E724C2 /* Pods-LCTreasureKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -73,7 +72,6 @@
 		402C16BC2421B8B200F6EA72 /* UILabel+CH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+CH.h"; sourceTree = "<group>"; };
 		402C16BD2421B8B200F6EA72 /* UIImage+CH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+CH.h"; sourceTree = "<group>"; };
 		42DD37877E83D74B5996BB9D7BA0DC01 /* Pods-LCTreasureKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LCTreasureKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5EED4B41B5EEF1F4451F9F0A0D992EDC /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = LCTreasureKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		66290154892DE99AE0EA134E56726025 /* Pods-LCTreasureKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LCTreasureKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		71ACE5239E092FFCAB6D603C7F3B3188 /* Pods-LCTreasureKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LCTreasureKit_Tests.modulemap"; sourceTree = "<group>"; };
 		7254F139F154BFBA4C74F36D80795A84 /* LCTreasureKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LCTreasureKit-Info.plist"; sourceTree = "<group>"; };
@@ -244,7 +242,6 @@
 			isa = PBXGroup;
 			children = (
 				402C16B12421B8B200F6EA72 /* SystemClassCategory */,
-				5EED4B41B5EEF1F4451F9F0A0D992EDC /* ReplaceMe.m */,
 				22265016AAFAFC71B437DF3790D55FF8 /* Pod */,
 				EBB53E3A1D0504DED02152369E8B23B3 /* Support Files */,
 			);
@@ -433,7 +430,6 @@
 			files = (
 				402C16C42421B8B300F6EA72 /* UIColor+CH.m in Sources */,
 				8D1FED6D5B79BF1160074ED38A9B51B2 /* LCTreasureKit-dummy.m in Sources */,
-				C0510B68CE7FABB965F5DEDD0FE14044 /* ReplaceMe.m in Sources */,
 				402C16C32421B8B300F6EA72 /* UIImage+CH.m in Sources */,
 				402C16C62421B8B300F6EA72 /* UIButton+CH.m in Sources */,
 				402C16C02421B8B300F6EA72 /* UILabel+CH.m in Sources */,

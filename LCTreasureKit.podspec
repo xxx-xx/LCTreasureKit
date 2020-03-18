@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LCTreasureKit/Classes/**/*'
+#  s.source_files = 'LCTreasureKit/Classes/**/*'
   
   # s.resource_bundles = {
   #   'LCTreasureKit' => ['LCTreasureKit/Assets/*.png']
@@ -37,4 +37,8 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.subspec 'SystemClassCategory' do |category|
+    category.source_files = 'LCTreasureKit/Classes/SystemClassCategory/**/*'
+  end
+  
 end
